@@ -1,5 +1,5 @@
 # Hello 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakv-dev&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakv-dev&theme=tokyonight" />
 
 
 #### Languages
